@@ -23,7 +23,7 @@ I'm interested in **avionics and embedded systems**, **CFD and scientific comput
 - [flight-deconflicting-tool](https://github.com/Andreu-Bueno/flight-deconflicting-tool) — Flight simulator with conflict detection and automatic resolution (C#, WinForms, SQLite).
 
 **CFD**
-- [potential-flow-solver](https://github.com/Andreu-Bueno/potential-flow-solver) — Stream-function solver with SOR for fixed and rotating cylinders, validated against the analytical solution (Python).
+- [potential-flow-solver](https://github.com/Andreu-Bueno/potential-flow-solver) — Stream-function solver with SOR for cylinders (with the Magnus effect) and the NACA 2412 airfoil with the Kutta condition, including lift and validation against theory (Python).
 - [CFD-Learning](https://github.com/Andreu-Bueno/CFD-Learning) — Step-by-step CFD fundamentals in Jupyter notebooks: convection, diffusion, Burgers' equation.
 
 **Electronics and digital design**
