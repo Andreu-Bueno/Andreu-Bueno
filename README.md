@@ -9,7 +9,7 @@ I'm interested in **avionics and embedded systems**, **CFD and scientific comput
 - Building a GPS signal simulator, from the satellite orbits to the navigation message.
 - Building my own CFD solver from scratch, step by step, validating each stage against reference cases.
 - Learning PCB design in KiCad.
-- Looking for an internship in the Barcelona area from February 2027 (part-time, full-time from summer 2027).
+- Looking for an internship in the Barcelona area from February 2027 (part-time, full-time from summer 2027, but other options can be talked).
 
 ## Projects
 
